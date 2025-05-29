@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(126, 123, 123);
+    padding: 100px;
+    align-items: center;
+    box-sizing: border-box;
+}
+form{
+    background-color: rgb(97, 96, 96);
+    height: 359px;
+    padding: auto;
+}
+button{
+    background-color: rgb(27, 27, 27);
+    width: 100px;
+    align-content: center;
+    
+}
+.form-container{
+    background-color: rgb(36, 35, 35);
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+input[type="text"],input[type="mail"],input[type="password"],input[type="number"],input[type="address"],input[type="age"],input[type="gender"],input[type="username"],input[type="password"],input[type="dob"]{
+    background-color: rgb(56, 55, 55);
+    height: 20px;
+    width: 560px;
+}

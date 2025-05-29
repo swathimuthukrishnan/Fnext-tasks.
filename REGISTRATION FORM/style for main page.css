@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(109, 114, 114);
+    padding: 100px;
+}
+.page-container{
+    border: black;
+    align-content: center;
+    background-color: rgb(88, 87, 87);
+    height: 100px;
+    width: 500px;
+}
